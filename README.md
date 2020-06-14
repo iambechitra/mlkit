@@ -15,7 +15,7 @@
 ##### Step 2. Add the dependency
 ```
 	dependencies {
-	        implementation 'com.github.iambechitra:mlkit:v1.0-beta.2'
+	        implementation 'com.github.iambechitra:mlkit:v1.0-beta.3'
 	}
 ```
 
@@ -34,8 +34,8 @@
 	<dependency>
 	    <groupId>com.github.iambechitra</groupId>
 	    <artifactId>mlkit</artifactId>
-	    <version>v1.0-beta.2</version>
+	    <version>v1.0-beta.3</version>
 	</dependency>
 ```
 
-Enjoy (y)
+Enjoy!
