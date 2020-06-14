@@ -1,8 +1,8 @@
-#Android Machine Learning Library Powered by Java
+# Android Machine Learning Library Powered by Java
 
-###Gradle Setup:
+### Gradle Setup:
 
-#####Step 1. Add the JitPack repository to your build file
+##### Step 1. Add the JitPack repository to your build file
 ```
 	allprojects {
 		repositories {
@@ -11,7 +11,7 @@
 		}
 	}
 ```
-#####Step 2. Add the dependency
+##### Step 2. Add the dependency
 ```
 	dependencies {
 	        implementation 'com.github.iambechitra:mlkit:v1.0-beta.2'
